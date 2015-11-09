@@ -1,6 +1,6 @@
 [project]
 name = "zombie"
-version = "0.0.3"
+version = "0.0.4"
 authors = ["Simon Wollwage"]
 license = "BSD-3-Clause"
 description = "A safe way to remove any zombie child processes (unix/linux only)"
