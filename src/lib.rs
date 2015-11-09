@@ -1,6 +1,6 @@
 extern crate libc;
 
-use libc::types::os::arch::posix88::pid_t;
+use libc::pid_t;
 use libc::c_int;
 
 const WNOHANG : c_int = 0x00000001;
