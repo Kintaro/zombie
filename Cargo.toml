@@ -6,7 +6,7 @@ license = "BSD-3-Clause"
 description = "A safe way to remove any zombie child processes (unix/linux only)"
 
 [dependencies]
-libc = "0.2.1"
+libc = "*"
 
 [lib]
 name = "zombie"
